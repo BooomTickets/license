@@ -20,8 +20,8 @@
 
 Download the app from:
 
-* Google Play: (link will be provided later)
-* App Store: (link will be provided later)
+* [Google Play link](https://play.google.com/store/apps/details?id=com.pushka_dev.openscan)
+* [App Store](https://apps.apple.com/de/app/booomtickets/id6746796863)
 
 ## Privacy Policy
 
